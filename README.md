@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Resza Manzilina</h1>
-<h3 align="center">I'm interested in Data and Sofwer Tester Field</h3>
+<h2 align="center">Hi 👋, I'm Resza Manzilina</h2>
+
 - 🌱 I’m currently learning **SQL, Python, Google Cloud Platform**
 
 
